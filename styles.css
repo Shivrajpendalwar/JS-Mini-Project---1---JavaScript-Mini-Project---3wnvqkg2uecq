@@ -7,7 +7,7 @@
 }
 .header {
     position: relative;
-    min-height: 60vh;
+    min-height: 20vh;
     background: url("./background.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -101,7 +101,8 @@ a{
     padding: 0.5rem 1rem;
      font-size: 1rem;
      font-weight: bold;
-     cursor: pointer;  
+     cursor: pointer; 
+      
 }
 .section-signup{
 margin: 5rem auto;
